@@ -13,7 +13,7 @@ Client Routes:
  - [localhost:8080/](http://localhost:8080/)
 
 API Routes:
- - [localhost:8080/](http://localhost:8080/api/)
+ - [localhost:8080/api](http://localhost:8080/api/)
 
 Mongo Express: 
  - [localhost:8081/](http://localhost:8081)
